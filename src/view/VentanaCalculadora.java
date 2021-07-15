@@ -288,4 +288,7 @@ public class VentanaCalculadora extends javax.swing.JFrame {
         txt_result.setText("");
         label_operacion.setText("Tipo de Operacion:");    
     }
+    private void Hola(){
+        System.out.println("Hola mundo");
+    }
 }
